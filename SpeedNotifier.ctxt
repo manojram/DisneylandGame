@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SpeedNotifier
+comment1.params=
+comment1.target=SpeedNotifier()
+comment2.params=observer
+comment2.target=void\ attachSpeedObserver(SpeedObserverIfc)
+comment3.params=observer
+comment3.target=void\ detachSpeedObserver(SpeedObserverIfc)
+comment4.params=
+comment4.target=void\ notidySpeedObservers()
+comment5.params=
+comment5.target=int\ getGlobalSpeed()
+comment6.params=globalSpeed
+comment6.target=void\ setGlobalSpeed(int)
+numComments=7
