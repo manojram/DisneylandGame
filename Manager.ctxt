@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=
+comment1.target=Manager()
+comment2.params=
+comment2.target=java.util.List\ getRandomGoodies()
+comment3.params=world
+comment3.target=HurdleWrapper\ getRandomHurdle(greenfoot.World)
+numComments=4
